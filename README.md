@@ -50,25 +50,7 @@ CGPA-Calculator/
 
 ---
 
-## 📸 Screenshots
 
-### Home Page
-
-![Home](screenshots/01-homepage.png)
-
-### Subject Management
-
-![Subjects](screenshots/02-subjects.png)
-
-### Results Dashboard
-
-![Results](screenshots/03-results.png)
-
-### Action Buttons
-
-![Actions](screenshots/04-actions.png)
-
----
 
 ## 🚀 How to Run
 
