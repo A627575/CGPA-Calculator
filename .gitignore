@@ -1,0 +1,29 @@
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Node.js (Future)
+node_modules/
+
+# Build Files
+dist/
+build/
+
+# Environment Files
+.env
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+
+# IDE
+.idea/
